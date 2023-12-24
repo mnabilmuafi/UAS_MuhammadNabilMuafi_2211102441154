@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Nama Anggota Kelomompok:
+1. Muhammad Nabil Mu'afi - 2211102441154
+2. Muhamad Fuad Ilham - 2111102441037
+3.Muhamad Adji Mukti - 2111102441065
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
