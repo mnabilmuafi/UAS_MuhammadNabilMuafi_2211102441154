@@ -1,6 +1,5 @@
 import greenfoot.Greenfoot;
 import greenfoot.Actor;
-
 import greenfoot.Actor;
 
 public class Score extends Actor implements Scorable {
@@ -21,8 +20,14 @@ public class Score extends Actor implements Scorable {
     public static int getScore() {
         return score;
     }
-
+    public static void increaseScoreFromScorable() {
+        increaseScore(5);
+    }   
     public static void increaseScoreFromScorable(int value) {
+        increaseScore(value);
+    }
+    public static void increaseScoreFromScorableWithSound(int value) {
+        Greenfoot.playSound("sound.wav");
         increaseScore(value);
     }
 
